@@ -5,4 +5,4 @@ categories: [PERSONAL]
 tags: [TAG]     # TAG names should always be lowercase
 ---
 
-2022 was a big year. 
+## 2022 was a big year. 
