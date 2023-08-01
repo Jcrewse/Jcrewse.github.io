@@ -43,10 +43,10 @@ social:
   links:
     # The first element serves as the copyright owner's link
     - https://twitter.com/JackCrewse      # change to your twitter homepage
-    - https://github.com/Jcrewse       # change to your github homepage
+    - https://github.com/Jcrewse          # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    - https://www.linkedin.com/in/jack-crewse-iii/
 
 google_site_verification:               # fill in to your verification string
 
@@ -81,7 +81,7 @@ theme_mode:  dark # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: eiffel-headshot.jpg
 
 # boolean type, the global switch for ToC in posts.
 toc: true
