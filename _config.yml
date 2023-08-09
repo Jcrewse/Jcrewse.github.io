@@ -35,7 +35,6 @@ twitter:
   username: JackCrewse            # change to your twitter username
 
 plugins: 
-  - jekyll-feed
   - jekyll-seo-tag
 
 social:
