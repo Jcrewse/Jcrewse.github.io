@@ -27,7 +27,8 @@ description: >-                        # used by seo meta and the atom feed
   The personal web page of Jack Crewse. 
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: 'https://jcrewse/github.io'
+#url: 'https://jcrewse/github.io'
+url: 'https://jackcrewse.com'
 
 github:
   username: Jcrewse             # change to your github username
