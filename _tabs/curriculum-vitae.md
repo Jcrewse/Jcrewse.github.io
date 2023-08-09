@@ -1,6 +1,6 @@
 ---
 # the default layout is 'page'
-icon: fas fa-file-text-o
+icon: fas fa-file-text
 order: 2
 math: true
 toc: true
@@ -49,9 +49,9 @@ Missouri University of Science and Technology
 Missouri University of Science and Technology85-390
 
 # Skills
-**Programming:** Python (numpy, scipy, pandas, matlplotlib), Fortran, C++, Linux/Unix systems, High-performance computing (MPI, Torque, Slurm), Machine learning (scikit-learn)
+**Programming:** Python (numpy, scipy, pandas, matlplotlib), Fortran, C++, High-performance computing (MPI, Torque, Slurm), Linux/Unix systems, Machine learning (scikit-learn, keras), git/github, 
 
-**Methods:** quantum Monte Carlo, density functional theory, solid-state optics
+**Methods:** quantum Monte Carlo, density functional theory (GPAW, ASE), solid-state optics (high-harmonic generation, light-matter interactions in topological materials)
 
 **Other:** $\LaTeX$
 
