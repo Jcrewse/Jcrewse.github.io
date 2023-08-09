@@ -7,7 +7,6 @@ toc: true
 ---
 
 # Experience
----
 **Postdoctoral Appointee** (Aug. 2022 - present)  
 *Center for Nanoscale Materials - Argonne National Laboratory*
 
@@ -43,7 +42,6 @@ toc: true
  - Taught four semesters with approximately 100 students each
 
 # Education
----
 **Ph.D Physics** (2023)  
 Missouri University of Science and Technology 
 
@@ -51,7 +49,6 @@ Missouri University of Science and Technology
 Missouri University of Science and Technology85-390
 
 # Skills
----
 **Programming:** Python (numpy, scipy, pandas, matlplotlib), Fortran, C++, High-performance computing (MPI, Torque, Slurm), Linux/Unix systems, Machine learning (scikit-learn, keras), git/github, 
 
 **Methods:** quantum Monte Carlo, density functional theory (GPAW, ASE), solid-state optics (high-harmonic generation, light-matter interactions in topological materials)
@@ -59,7 +56,6 @@ Missouri University of Science and Technology85-390
 **Other:** $\LaTeX$
 
 # Publications
----
 **"Localization of the Higgs mode at the superfluid-Mott glass transition"**  
 ***J. Crewse**, T. Vojta* (2021)  
 [Physical Review B **104** (1), 014511](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.104.014511)
