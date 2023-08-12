@@ -5,7 +5,7 @@ order: 1
 ---
 
 ## Jack R. Crewse III
-<img align="right" width="100" height="100" src="assets/img/eiffel-headshot.jpg">
+<img align="right" width="100" height="100" src="../assets/img/eiffel-headshot.jpg">
 
 *Postdoctoral Appointee*  
 *Center for Nanoscale Materials - Argonne National Laboratory*  
