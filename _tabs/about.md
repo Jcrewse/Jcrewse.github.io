@@ -12,9 +12,9 @@ order: 1
   
 <i class="fa fa-map-marker"></i> Oak Park, IL  
 <i class="fa fa-envelope"></i> [jcrewseiii@gmail.com](mailto:jcrewseiii@gmail.com)  
-<i class="fa fa-google"></i> [Google Scholar](https://scholar.google.com/citations?user=SkU8oqoAAAAJ&hl=en) \| 
-<i class="fa fa-linkedin"></i> [LinkedIn](https://www.linkedin.com/in/jack-crewse-iii) \|
-<i class="fa fa.github"></i> [GitHub](https://github.com/Jcrewse)  
+[Google Scholar](https://scholar.google.com/citations?user=SkU8oqoAAAAJ&hl=en) \| 
+[LinkedIn](https://www.linkedin.com/in/jack-crewse-iii) \|
+[GitHub](https://github.com/Jcrewse)  
 
 
 ## <span style="color:Green">Professional Interests</span>
