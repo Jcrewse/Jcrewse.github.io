@@ -5,6 +5,7 @@ order: 1
 ---
 
 ## Jack R. Crewse III
+
 <img style="float: right;" width="100" height="100" src="../assets/img/eiffel-headshot.jpg">
 
 *Postdoctoral Appointee*  
