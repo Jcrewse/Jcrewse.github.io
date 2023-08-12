@@ -46,7 +46,7 @@ toc: true
 Missouri University of Science and Technology 
 
 **B.S Physics** (2015)  
-Missouri University of Science and Technology85-390
+Missouri University of Science and Technology
 
 # Skills
 **Programming:** Python (numpy, scipy, pandas, matlplotlib), Fortran, C++, High-performance computing (MPI, Torque, Slurm), Linux/Unix systems, Machine learning (scikit-learn, keras), git/github, 
