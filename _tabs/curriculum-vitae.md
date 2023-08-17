@@ -51,7 +51,7 @@ Dissertation: "Quantum Critical Behavior and Dynamics of the Superfluid-Mott Gla
 Missouri University of Science and Technology
 
 # Skills
-**Programming:** Python (numpy, scipy, pandas, matlplotlib), Fortran, C++, High-performance computing (MPI, Torque, Slurm), Linux/Unix systems, Machine learning (scikit-learn, keras), git/github, 
+**Programming:** Python (numpy, scipy, pandas, matlplotlib), Fortran, C++, High-performance computing (MPI, Torque, Slurm), Linux/Unix systems, Machine learning (scikit-learn, keras), git/github
 
 **Methods:** quantum Monte Carlo, density functional theory (GPAW, ASE), tight-binding methods, solid-state optics (high-harmonic generation, light-matter interactions in topological materials)
 
