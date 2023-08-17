@@ -117,7 +117,7 @@ Missouri University of Science and Technology
 - ["Schearer" Prize 2018](https://physics.mst.edu/media/academic/physics/documents/newsletter/Matter_n_Motion2019_final.pdf) (1st Place) - *Laird D. Schearer Competition for Graduate Research*   
 "Quantum Critical Behavior of a Three-Dimensional Superfluid-Mott Glass Transition"  
 
-- [Fuller Prize 2014](https://physics.mst.edu/media/academic/physics/documents/newsletter/Matter_n_Motion2015_final.pdf#180129090153)(2nd Place) - *Harold Q. Fuller Undergraduate Research Competition*  
+- [Fuller Prize 2014](https://physics.mst.edu/media/academic/physics/documents/newsletter/Matter_n_Motion2015_final.pdf#180129090153) (2nd Place) - *Harold Q. Fuller Undergraduate Research Competition*  
 "Magnetization of transition metal-doped topological insulators"  
 
 - Eagle Scout (2005)
