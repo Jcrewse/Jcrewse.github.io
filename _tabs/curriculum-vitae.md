@@ -108,16 +108,16 @@ Missouri University of Science and Technology
 *APS March Meeting 2017*
 
 # Awards
-- ["Schearer" Prize 2021](https://econnection.mst.edu/2019/01/two-ph-d-students-win-physics-prize/) - *Laird D. Schearer Competition for Graduate Research*   
+- ["Schearer" Prize 2021](https://econnection.mst.edu/2019/01/two-ph-d-students-win-physics-prize/) (1st Place) - *Laird D. Schearer Competition for Graduate Research*   
 "Localization of the Higgs mode near the superfluid-Mott glass quantum phase transiton"
 
-- ["Schearer" Prize 2020](https://physics.mst.edu/media/academic/physics/documents/newsletter/MatterNMotion2021.pdf) - *Laird D. Schearer Competition for Graduate Research*   
+- ["Schearer" Prize 2020](https://physics.mst.edu/media/academic/physics/documents/newsletter/MatterNMotion2021.pdf) (1st Place) - *Laird D. Schearer Competition for Graduate Research*   
 "High-harmonic generation in Dirac metals: Application of the semiconductor-Bloch formalism to topological systems"  
 
-- ["Schearer" Prize 2018](https://physics.mst.edu/media/academic/physics/documents/newsletter/Matter_n_Motion2019_final.pdf) - *Laird D. Schearer Competition for Graduate Research*   
+- ["Schearer" Prize 2018](https://physics.mst.edu/media/academic/physics/documents/newsletter/Matter_n_Motion2019_final.pdf)(1st Place) - *Laird D. Schearer Competition for Graduate Research*   
 "Quantum Critical Behavior of a Three-Dimensional Superfluid-Mott Glass Transition"  
 
-- [Fuller Prize 2014](https://physics.mst.edu/media/academic/physics/documents/newsletter/Matter_n_Motion2015_final.pdf#180129090153) - *Harold Q. Fuller Undergraduate Research Competition*  
+- [Fuller Prize 2014](https://physics.mst.edu/media/academic/physics/documents/newsletter/Matter_n_Motion2015_final.pdf#180129090153)(2nd Place) - *Harold Q. Fuller Undergraduate Research Competition*  
 "Magnetization of transition metal-doped topological insulators"  
 
 - Eagle Scout (2005)
