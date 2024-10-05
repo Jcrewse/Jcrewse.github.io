@@ -51,6 +51,7 @@ toc: true
  - Provided detailed notes, diagrams, and video lectures of experimental techniques
  - Guided extracurricular one-on-one tutoring sessions
 
+---
 
 # Education
 **Ph.D Physics** (2024)  
@@ -60,12 +61,16 @@ Dissertation: "Quantum Critical Behavior and Dynamics of the Superfluid-Mott Gla
 **B.S Physics** (2015)  
 Missouri University of Science and Technology
 
+---
+
 # Skills
 **Programming:** Python (numpy, scipy, pandas, matlplotlib), Fortran, C++, High-performance computing (MPI, Torque, Slurm), Linux/Unix systems, Machine learning (scikit-learn, keras), git/github
 
 **Methods:** quantum Monte Carlo, density functional theory (GPAW, ASE), tight-binding methods, solid-state optics (high-harmonic generation, light-matter interactions in topological materials)
 
 **Other:** $\LaTeX$
+
+---
 
 # Publications
 **"Localization of the Higgs mode at the superfluid-Mott glass transition"**  
