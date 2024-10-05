@@ -8,7 +8,7 @@ toc: true
 
 # Experience
 **Associate Manager, Intellectual Property and Technology Development** (Oct. 2023 - present)
-*Polsky Center for Entrepreneurship and Innovation  *
+*Polsky Center for Entrepreneurship and Innovation*  
 *University of Chicago*
 
 - Managed patent filing, prosecution, and maintanence for technologies coming out of the computer science and physics departments (~75 PIs, ~200 technologies)
