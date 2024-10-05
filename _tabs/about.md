@@ -9,7 +9,7 @@ order: 1
 
 *Associate Manager, Intellectual Property and Technology Development*\ 
 *Polsky Center For Entrepreneurship and Innovation*\
-*<span style="color:Red">University of Chicago</span>*
+<span style="color:Red">University of Chicago</span>
   
 <i class="fa fa-map-marker"></i> Oak Park, IL  
 <i class="fa fa-envelope"></i> [jcrewseiii@gmail.com](mailto:jcrewseiii@gmail.com)  
