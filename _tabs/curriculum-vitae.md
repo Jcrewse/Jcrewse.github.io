@@ -14,14 +14,16 @@ toc: true
 - Managed patent filing, prosecution, and maintanence for technologies coming out of the computer science and physics departments (~75 PIs, ~200 technologies)
 
 **Postdoctoral Appointee** (Aug. 2022 - Oct. 2023)  
-*Center for Nanoscale Materials - Argonne National Laboratory*
+*Center for Nanoscale Materials*  
+*Argonne National Laboratory*  
 
  - Investigated electronic structure and optical properties of helical van der Waals heterostructures
  - Developed high-performance simulations utilizing density functional theory and tight-binding models
  - Advanced analytic theory of electronic structure properties in helical symmetry materials
 
 **Graduate Research Assitant** (June 2016 - July 2022)  
-*Missouri University of Science and Technology*
+*Department of Physics*  
+*Missouri University of Science and Technology*  
 
  - Studied effects of disorder on superfluid-insulator quantum phase transitions and dynamical properties of the relevant Higgs/Goldstone modes 
  - Developed high-performance Monte Carlo simulations of disordered Bose-Hubbard model of superfluid-insulator systems
@@ -31,7 +33,8 @@ toc: true
  - Twice recognized in department-wide research competition (First place honors 2018/2021)
 
 **Visiting Research Assistant** (Sept. 2019 - Mar. 2020)  
-*University of Regensburg*
+*Department of Physics*  
+*University of Regensburg*  
 
  - Developed numerical simulation of light-matter interactions in topological insulator materials utilizing semiconductor-Bloch equation techniques
  - Contributed to publications in Nature and Physical Review B
@@ -39,7 +42,8 @@ toc: true
  - Recognized in department-wide research competition (First place honors 2020)
 
 **Graduate Teaching Assistant** (Aug. 2017 - May 2021)  
-*Missouri University of Science and Technology*
+*Department of Physics*  
+*Missouri University of Science and Technology*  
 
  - Instructed undergraduate electromagnetism and classical mechanics laboratory courses
  - Taught four semesters with approximately 100 students each
@@ -49,7 +53,7 @@ toc: true
 
 
 # Education
-**Ph.D Physics** (Defending 2023)  
+**Ph.D Physics** (2024)  
 Missouri University of Science and Technology  
 Dissertation: "Quantum Critical Behavior and Dynamics of the Superfluid-Mott Glass Transition"
 
