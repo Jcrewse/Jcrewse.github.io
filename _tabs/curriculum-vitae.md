@@ -7,7 +7,13 @@ toc: true
 ---
 
 # Experience
-**Postdoctoral Appointee** (Aug. 2022 - present)  
+**Associate Manager, Intellectual Property and Technology Development** (Oct. 2023 - present)
+*Polsky Center for Entrepreneurship and Innovation  *
+*University of Chicago*
+
+- Managed patent filing, prosecution, and maintanence for technologies coming out of the computer science and physics departments (~75 PIs, ~200 technologies)
+
+**Postdoctoral Appointee** (Aug. 2022 - Oct. 2023)  
 *Center for Nanoscale Materials - Argonne National Laboratory*
 
  - Investigated electronic structure and optical properties of helical van der Waals heterostructures
