@@ -4,8 +4,8 @@ icon: fas fa-id-card
 order: 1
 ---
 
-![Desktop View](../assets/img/eiffel-headshot.jpg){: width="300" .w-25 .right}
-## Jack R. Crewse III
+![Desktop View](../assets/img/polsky-headshot-close.jpg){: width="300" .w-25 .right}
+## Jack R. Crewse III, Ph.D. 
 
 *Postdoctoral Appointee*  
 *Center for Nanoscale Materials  
