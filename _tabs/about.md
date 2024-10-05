@@ -7,8 +7,9 @@ order: 1
 ![Desktop View](../assets/img/polsky-headshot-close.jpg){: width="500" .w-25 .right}
 ## Jack R. Crewse III, Ph.D. 
 
-*Associate Manager, Intellectual Property and Technology Development*\ 
-*Polsky Center For Entrepreneurship and Innovation*\
+*Associate Manager, Intellectual Property and Technology Development*  
+*Polsky Center For Entrepreneurship and Innovation*  
+
 ## <span style="color:Red">University of Chicago</span>
   
 <i class="fa fa-map-marker"></i> Oak Park, IL  
