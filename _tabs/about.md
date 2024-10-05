@@ -7,9 +7,9 @@ order: 1
 ![Desktop View](../assets/img/polsky-headshot-close.jpg){: width="300" .w-25 .right}
 ## Jack R. Crewse III, Ph.D. 
 
-*Postdoctoral Appointee*  
-*Center for Nanoscale Materials  
-Argonne National Laboratory*  
+*Associate Manager, Intellectual Property and Technology Development*  
+*Polsky Center For Entrepreneurship and Innovation
+University of Chicago*  
   
 <i class="fa fa-map-marker"></i> Oak Park, IL  
 <i class="fa fa-envelope"></i> [jcrewseiii@gmail.com](mailto:jcrewseiii@gmail.com)  
