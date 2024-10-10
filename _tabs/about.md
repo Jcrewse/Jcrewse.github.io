@@ -9,7 +9,8 @@ order: 1
 
 Associate Manager, Intellectual Property  
 [Polsky Center for Entrepreneuship and Innovation  ](https://polsky.uchicago.edu)  
-<span style="color:#800000">University of Chicago</span>
+<span style="color:#800000">University of Chicago</span>  
+<font color="#800000">Red</font>
 
 <i class="fa fa-map-marker"></i> Oak Park, IL  
 <i class="fa fa-envelope"></i> [jcrewseiii@gmail.com](mailto:jcrewseiii@gmail.com)  
